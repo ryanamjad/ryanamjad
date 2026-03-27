@@ -140,7 +140,7 @@ Real-time audio classification on **ESP32** using FFT + SVM under **FreeRTOS**, 
 
 ---
 
-### 🔧 [NU-Core — 32-Bit Custom CPU in Verilog](https://github.com/ryanamjad/NU-Core-32bit-CPU)
+### 🔧 [NU-Core — 32-Bit Custom CPU in Verilog](https://github.com/ryanamjad/NU-Core-32bit-CPU-Verilog)
 
 Custom-designed **32-bit single-cycle processor** with 39-bit instruction set, dual register files, and 5 ALU operations. Synthesized and verified on **Intel Cyclone V FPGA (DE1-SoC)** with 7-segment display output.
 
