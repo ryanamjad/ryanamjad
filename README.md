@@ -155,18 +155,6 @@ Real-time audio classification on **ESP32** using FFT feature extraction and SVM
 
 ---
 
-### 📶 [Cell-Free Massive MIMO — 1-Bit Precoding](https://github.com/ryanamjad/1bit_precoding)
-
-Research-grade simulation of **cell-free massive MIMO downlink** with 1-bit DAC precoding. Multiple algorithms — exhaustive search, linear, and quantized — for next-gen distributed wireless architectures.
-
-![MATLAB](https://img.shields.io/badge/-MATLAB-E34F26?style=flat-square)
-![Massive MIMO](https://img.shields.io/badge/-Massive_MIMO-0A66C2?style=flat-square)
-![6G Research](https://img.shields.io/badge/-6G_Research-8B5CF6?style=flat-square)
-
-<br/>
-
----
-
 ### 🌊 [Frequency Division Multiplexing](https://github.com/ryanamjad/frequency-division-multiplexing)
 
 4-channel FDM system with DSB-SC modulation, Butterworth filters, and coherent demodulation — the foundational concept behind **OFDMA in 4G/5G**. Full spectral analysis and signal recovery.
@@ -193,14 +181,27 @@ Research-grade simulation of **cell-free massive MIMO downlink** with 1-bit DAC 
 
 ---
 
-### ⚙️ [8051 Voting System — Bare-Metal Embedded](https://github.com/ryanamjad/8051-voting-system)
+### 🔧 [NU-Core — 32-Bit Custom CPU in Verilog](https://github.com/ryanamjad/NU-Core-32bit-CPU)
 
-Electronic voting system on **Intel 8051** — PIN auth, keypad/LCD interface, motor-controlled lock, real-time tallying. Full hardware simulation in Proteus. Pure bare-metal firmware.
+Custom-designed **32-bit single-cycle processor** with 39-bit instruction set, dual register files, and 5 ALU operations. Synthesized and verified on **Intel Cyclone V FPGA (DE1-SoC)** with 7-segment display output.
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square)
-![8051](https://img.shields.io/badge/-8051-0071C5?style=flat-square)
-![Proteus](https://img.shields.io/badge/-Proteus-6DB33F?style=flat-square)
-![Bare Metal](https://img.shields.io/badge/-Bare_Metal-525252?style=flat-square)
+![Verilog](https://img.shields.io/badge/-Verilog-543978?style=flat-square)
+![FPGA](https://img.shields.io/badge/-Cyclone_V-0071C5?style=flat-square)
+![CPU Design](https://img.shields.io/badge/-CPU_Design-E01F27?style=flat-square)
+![Quartus](https://img.shields.io/badge/-Quartus-00599C?style=flat-square)
+
+<br/>
+
+---
+
+### 🖥️ [FPGA VGA Graphics Engine — Color Fill & Bresenham Circles](https://github.com/ryanamjad/FPGA-VGA-Graphics-Engine)
+
+Hardware VGA graphics rendering on **Cyclone V FPGA**: FSM-based 8-color screen fill and **Bresenham Circle Algorithm** with adjustable radius and color — all driving a 160x120 VGA display in real-time.
+
+![Verilog](https://img.shields.io/badge/-Verilog-543978?style=flat-square)
+![FPGA](https://img.shields.io/badge/-Cyclone_V-0071C5?style=flat-square)
+![VGA](https://img.shields.io/badge/-VGA-E01F27?style=flat-square)
+![FSM](https://img.shields.io/badge/-FSM-8B5CF6?style=flat-square)
 
 <br/>
 
