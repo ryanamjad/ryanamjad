@@ -104,11 +104,7 @@ I build intelligent systems where **hardware meets AI** — from bare-metal firm
 
 <br/>
 
-<a href="https://github.com/ryanamjad/esp32-fft-fire-alarm-freertos">
-<img align="left" width="30" src="https://img.icons8.com/color/48/microcontroller.png" />
-</a>
-
-### &nbsp; [ESP32 Fire Alarm — Edge AI + FreeRTOS](https://github.com/ryanamjad/esp32-fft-fire-alarm-freertos)
+### 🔌 [ESP32 Fire Alarm — Edge AI + FreeRTOS](https://github.com/ryanamjad/esp32-fft-fire-alarm-freertos)
 
 Real-time audio classification on **ESP32** using FFT feature extraction and SVM inference — fully on-device under **FreeRTOS**. Connected to **AWS IoT Core** via MQTT for cloud telemetry and alerting.
 
@@ -122,11 +118,7 @@ Real-time audio classification on **ESP32** using FFT feature extraction and SVM
 
 ---
 
-<a href="https://github.com/ryanamjad/polar-codes-5g-error-correction">
-<img align="left" width="30" src="https://img.icons8.com/color/48/signal.png" />
-</a>
-
-### &nbsp; [5G Polar Codes — Error Correction](https://github.com/ryanamjad/polar-codes-5g-error-correction)
+### 📡 [5G Polar Codes — Error Correction](https://github.com/ryanamjad/polar-codes-5g-error-correction)
 
 **3GPP Polar Codes** with CRC-aided Successive Cancellation List (CA-SCL) decoding — the standard for **5G NR** control channels. Full pipeline: encoding, BPSK modulation, AWGN simulation, and BER analysis.
 
@@ -139,11 +131,7 @@ Real-time audio classification on **ESP32** using FFT feature extraction and SVM
 
 ---
 
-<a href="https://github.com/ryanamjad/1bit_precoding">
-<img align="left" width="30" src="https://img.icons8.com/color/48/antenna.png" />
-</a>
-
-### &nbsp; [Cell-Free Massive MIMO — 1-Bit Precoding](https://github.com/ryanamjad/1bit_precoding)
+### 📶 [Cell-Free Massive MIMO — 1-Bit Precoding](https://github.com/ryanamjad/1bit_precoding)
 
 Research-grade simulation of **cell-free massive MIMO downlink** with 1-bit DAC precoding. Multiple algorithms — exhaustive search, linear, and quantized — for next-gen distributed wireless architectures.
 
@@ -155,11 +143,7 @@ Research-grade simulation of **cell-free massive MIMO downlink** with 1-bit DAC 
 
 ---
 
-<a href="https://github.com/ryanamjad/frequency-division-multiplexing">
-<img align="left" width="30" src="https://img.icons8.com/color/48/radio-waves.png" />
-</a>
-
-### &nbsp; [Frequency Division Multiplexing](https://github.com/ryanamjad/frequency-division-multiplexing)
+### 🌊 [Frequency Division Multiplexing](https://github.com/ryanamjad/frequency-division-multiplexing)
 
 4-channel FDM system with DSB-SC modulation, Butterworth filters, and coherent demodulation — the foundational concept behind **OFDMA in 4G/5G**. Full spectral analysis and signal recovery.
 
@@ -172,11 +156,7 @@ Research-grade simulation of **cell-free massive MIMO downlink** with 1-bit DAC 
 
 ---
 
-<a href="https://github.com/ryanamjad/chest-xray-dcgan-augmentation">
-<img align="left" width="30" src="https://img.icons8.com/color/48/brain.png" />
-</a>
-
-### &nbsp; [Chest X-Ray DCGAN — Medical AI](https://github.com/ryanamjad/chest-xray-dcgan-augmentation)
+### 🧠 [Chest X-Ray DCGAN — Medical AI](https://github.com/ryanamjad/chest-xray-dcgan-augmentation)
 
 **Deep Convolutional GAN** in PyTorch generating synthetic chest X-rays to augment limited medical datasets. Trained on 5,216 images to produce 6,400+ realistic samples — tackling data scarcity in healthcare AI.
 
@@ -189,11 +169,7 @@ Research-grade simulation of **cell-free massive MIMO downlink** with 1-bit DAC 
 
 ---
 
-<a href="https://github.com/ryanamjad/8051-voting-system">
-<img align="left" width="30" src="https://img.icons8.com/color/48/electronics.png" />
-</a>
-
-### &nbsp; [8051 Voting System — Bare-Metal Embedded](https://github.com/ryanamjad/8051-voting-system)
+### ⚙️ [8051 Voting System — Bare-Metal Embedded](https://github.com/ryanamjad/8051-voting-system)
 
 Electronic voting system on **Intel 8051** — PIN auth, keypad/LCD interface, motor-controlled lock, real-time tallying. Full hardware simulation in Proteus. Pure bare-metal firmware.
 
