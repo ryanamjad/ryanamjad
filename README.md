@@ -1,116 +1,222 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0A66C2&height=180&section=header&text=Ryan%20Amjad&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Embedded%20Systems%20%7C%20Wireless%20Communications%20%7C%20AI/ML&descSize=16&descAlignY=55&descColor=8b949e" width="100%" />
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ryanamjaddev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanamjaddev/)
-[![Email](https://img.shields.io/badge/Email-amjadryan5@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amjadryan5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ryanamjad-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ryanamjad)
-![Views](https://komarev.com/ghpvc/?username=ryanamjad&style=flat-square&color=0A66C2)
+# Hey, I'm Ryan Amjad
+
+### Embedded Systems Engineer | 5G Wireless | AI/ML on the Edge
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanamjaddev/)
+[![Email](https://img.shields.io/badge/-amjadryan5@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amjadryan5@gmail.com)
+[![GitHub](https://img.shields.io/badge/-ryanamjad-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ryanamjad)
+[![Location](https://img.shields.io/badge/-Winnipeg,%20Canada-1a73e8?style=flat-square&logo=googlemaps&logoColor=white)](#)
+
+<br/>
+
+I build intelligent systems where **hardware meets AI** — from bare-metal firmware on microcontrollers to 5G physical-layer algorithms and edge-deployed machine learning. I turn research papers into working prototypes.
+
+**Currently seeking roles in Embedded AI, Wireless/5G Systems, and Edge Intelligence.**
 
 </div>
 
 <br/>
 
-I build systems at the intersection of **embedded hardware**, **wireless communications**, and **machine learning**. From bare-metal firmware and 5G physical-layer algorithms to edge-deployed AI — I work across the full stack of intelligent wireless systems.
+## What I Work With
 
-> **Open to full-time roles in Embedded AI, 5G/6G Wireless Systems, and Edge Intelligence.**
+<table>
+<tr>
+<td valign="top" width="25%">
 
-<br/>
+### Embedded
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=flat-square&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white)
+![8051](https://img.shields.io/badge/Intel_8051-0071C5?style=flat-square&logo=intel&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA_Xilinx-E01F27?style=flat-square&logoColor=white)
+![Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Tech Stack
+`SPI` `I2C` `UART` `DMA`
+`JTAG/SWD` `Bare-Metal`
+`Low-Power Design` `Proteus`
 
-<div align="center">
+</td>
+<td valign="top" width="25%">
 
-### Embedded & Firmware
-[![Embedded Skills](https://skillicons.dev/icons?i=c,cpp,arduino,linux&theme=dark)](https://skillicons.dev)
+### Wireless & DSP
+![MATLAB](https://img.shields.io/badge/MATLAB-E34F26?style=flat-square&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logoColor=white)
 
-`ESP32` `STM32` `ARM Cortex-M` `Intel 8051` `FPGA (Xilinx)` `FreeRTOS` `Bare-Metal`
-`SPI` `I2C` `UART` `DMA` `JTAG/SWD` `Low-Power Design` `Proteus`
+`5G NR` `3GPP`
+`Polar Codes` `LDPC`
+`OFDM / OFDMA`
+`Massive MIMO`
+`Beamforming`
+`Channel Estimation`
+`1-Bit Precoding`
+`BER Analysis`
+`BPSK` `QPSK` `QAM`
+`FFT / IFFT`
+`Digital Filtering`
+`FDM / FDMA`
 
-### Wireless & Signal Processing
+</td>
+<td valign="top" width="25%">
 
-`5G NR` `Polar Codes (3GPP)` `LDPC` `OFDM / OFDMA` `Massive MIMO` `Beamforming`
-`Channel Estimation` `1-Bit Precoding` `BER Analysis` `FDM / FDMA`
-`BPSK` `QPSK` `QAM` `FFT / IFFT` `Digital Filtering` `Spectral Analysis`
+### AI / ML & Edge
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### AI / ML & Edge Intelligence
-[![AI Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark)](https://skillicons.dev)
+`TinyML` `Edge Inference`
+`CNNs` `GANs`
+`Model Quantization`
+`Computer Vision`
+`Audio Classification`
+`Data Augmentation`
 
-`CNNs` `GANs` `TinyML` `Edge Inference` `Model Quantization` `Computer Vision`
-`Data Augmentation` `Medical Imaging AI` `Audio Classification`
+</td>
+<td valign="top" width="25%">
 
 ### Tools & Cloud
-[![Tools](https://skillicons.dev/icons?i=git,github,aws,matlab,vscode&theme=dark)](https://skillicons.dev)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS IoT](https://img.shields.io/badge/AWS_IoT-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-543978?style=flat-square&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white)
 
-`Simulink` `GDB` `Wireshark` `MQTT` `BLE` `Wi-Fi` `AWS IoT Core`
+`GDB` `Wireshark`
+`BLE` `Wi-Fi`
+`REST APIs`
+`Edge-to-Cloud`
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## Featured Projects
 
-<div align="center">
+> Each project demonstrates a different slice of the embedded + wireless + AI stack.
+
+<br/>
 
 <a href="https://github.com/ryanamjad/esp32-fft-fire-alarm-freertos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanamjad&repo=esp32-fft-fire-alarm-freertos&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" width="47%" />
-</a>&nbsp;
-<a href="https://github.com/ryanamjad/polar-codes-5g-error-correction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanamjad&repo=polar-codes-5g-error-correction&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" width="47%" />
+<img align="left" width="30" src="https://img.icons8.com/color/48/microcontroller.png" />
 </a>
+
+### &nbsp; [ESP32 Fire Alarm — Edge AI + FreeRTOS](https://github.com/ryanamjad/esp32-fft-fire-alarm-freertos)
+
+Real-time audio classification on **ESP32** using FFT feature extraction and SVM inference — fully on-device under **FreeRTOS**. Connected to **AWS IoT Core** via MQTT for cloud telemetry and alerting.
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-6DB33F?style=flat-square)
+![FFT](https://img.shields.io/badge/-FFT-8B5CF6?style=flat-square)
+![AWS IoT](https://img.shields.io/badge/-AWS_IoT-232F3E?style=flat-square)
+
+<br/>
+
+---
+
+<a href="https://github.com/ryanamjad/polar-codes-5g-error-correction">
+<img align="left" width="30" src="https://img.icons8.com/color/48/signal.png" />
+</a>
+
+### &nbsp; [5G Polar Codes — Error Correction](https://github.com/ryanamjad/polar-codes-5g-error-correction)
+
+**3GPP Polar Codes** with CRC-aided Successive Cancellation List (CA-SCL) decoding — the standard for **5G NR** control channels. Full pipeline: encoding, BPSK modulation, AWGN simulation, and BER analysis.
+
+![MATLAB](https://img.shields.io/badge/-MATLAB-E34F26?style=flat-square)
+![5G NR](https://img.shields.io/badge/-5G_NR-0A66C2?style=flat-square)
+![Polar Codes](https://img.shields.io/badge/-Polar_Codes-8B5CF6?style=flat-square)
+![3GPP](https://img.shields.io/badge/-3GPP-14532D?style=flat-square)
+
+<br/>
+
+---
 
 <a href="https://github.com/ryanamjad/1bit_precoding">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanamjad&repo=1bit_precoding&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" width="47%" />
-</a>&nbsp;
-<a href="https://github.com/ryanamjad/frequency-division-multiplexing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanamjad&repo=frequency-division-multiplexing&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" width="47%" />
+<img align="left" width="30" src="https://img.icons8.com/color/48/antenna.png" />
 </a>
+
+### &nbsp; [Cell-Free Massive MIMO — 1-Bit Precoding](https://github.com/ryanamjad/1bit_precoding)
+
+Research-grade simulation of **cell-free massive MIMO downlink** with 1-bit DAC precoding. Multiple algorithms — exhaustive search, linear, and quantized — for next-gen distributed wireless architectures.
+
+![MATLAB](https://img.shields.io/badge/-MATLAB-E34F26?style=flat-square)
+![Massive MIMO](https://img.shields.io/badge/-Massive_MIMO-0A66C2?style=flat-square)
+![6G Research](https://img.shields.io/badge/-6G_Research-8B5CF6?style=flat-square)
+
+<br/>
+
+---
+
+<a href="https://github.com/ryanamjad/frequency-division-multiplexing">
+<img align="left" width="30" src="https://img.icons8.com/color/48/radio-waves.png" />
+</a>
+
+### &nbsp; [Frequency Division Multiplexing](https://github.com/ryanamjad/frequency-division-multiplexing)
+
+4-channel FDM system with DSB-SC modulation, Butterworth filters, and coherent demodulation — the foundational concept behind **OFDMA in 4G/5G**. Full spectral analysis and signal recovery.
+
+![MATLAB](https://img.shields.io/badge/-MATLAB-E34F26?style=flat-square)
+![FDM](https://img.shields.io/badge/-FDM-0A66C2?style=flat-square)
+![DSP](https://img.shields.io/badge/-DSP-8B5CF6?style=flat-square)
+![OFDMA](https://img.shields.io/badge/-OFDMA-14532D?style=flat-square)
+
+<br/>
+
+---
 
 <a href="https://github.com/ryanamjad/chest-xray-dcgan-augmentation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanamjad&repo=chest-xray-dcgan-augmentation&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" width="47%" />
-</a>&nbsp;
+<img align="left" width="30" src="https://img.icons8.com/color/48/brain.png" />
+</a>
+
+### &nbsp; [Chest X-Ray DCGAN — Medical AI](https://github.com/ryanamjad/chest-xray-dcgan-augmentation)
+
+**Deep Convolutional GAN** in PyTorch generating synthetic chest X-rays to augment limited medical datasets. Trained on 5,216 images to produce 6,400+ realistic samples — tackling data scarcity in healthcare AI.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square)
+![DCGAN](https://img.shields.io/badge/-DCGAN-8B5CF6?style=flat-square)
+![Medical AI](https://img.shields.io/badge/-Medical_AI-14532D?style=flat-square)
+
+<br/>
+
+---
+
 <a href="https://github.com/ryanamjad/8051-voting-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanamjad&repo=8051-voting-system&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" width="47%" />
+<img align="left" width="30" src="https://img.icons8.com/color/48/electronics.png" />
 </a>
 
-</div>
+### &nbsp; [8051 Voting System — Bare-Metal Embedded](https://github.com/ryanamjad/8051-voting-system)
+
+Electronic voting system on **Intel 8051** — PIN auth, keypad/LCD interface, motor-controlled lock, real-time tallying. Full hardware simulation in Proteus. Pure bare-metal firmware.
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square)
+![8051](https://img.shields.io/badge/-8051-0071C5?style=flat-square)
+![Proteus](https://img.shields.io/badge/-Proteus-6DB33F?style=flat-square)
+![Bare Metal](https://img.shields.io/badge/-Bare_Metal-525252?style=flat-square)
 
 <br/>
 
-<details>
-<summary><b>More Projects</b></summary>
-<br/>
-<div align="center">
-
-<a href="https://github.com/ryanamjad/face-mask-detection-opencv-keras">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanamjad&repo=face-mask-detection-opencv-keras&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" width="47%" />
-</a>&nbsp;
-<a href="https://github.com/ryanamjad/image-compression-vector-quantization">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanamjad&repo=image-compression-vector-quantization&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" width="47%" />
-</a>
-
-<a href="https://github.com/ryanamjad/7400-series-ic-tester-proteus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanamjad&repo=7400-series-ic-tester-proteus&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" width="47%" />
-</a>
-
-</div>
-</details>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanamjad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ryanamjad&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" width="48%" />
-</div>
+---
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanamjad&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=3fb950" width="96%" />
+
+### Let's Build Something Together
+
+I'm open to full-time roles in **Embedded AI**, **5G/6G Wireless Systems**, and **Edge Intelligence**.
+
+If you're working on something where hardware meets intelligence — I'd love to talk.
+
+[![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanamjaddev/)
+[![Email](https://img.shields.io/badge/-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjadryan5@gmail.com)
+
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0A66C2&height=100&section=footer" width="100%" />
