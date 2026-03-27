@@ -155,32 +155,6 @@ Real-time audio classification on **ESP32** using FFT feature extraction and SVM
 
 ---
 
-### 🌊 [Frequency Division Multiplexing](https://github.com/ryanamjad/frequency-division-multiplexing)
-
-4-channel FDM system with DSB-SC modulation, Butterworth filters, and coherent demodulation — the foundational concept behind **OFDMA in 4G/5G**. Full spectral analysis and signal recovery.
-
-![MATLAB](https://img.shields.io/badge/-MATLAB-E34F26?style=flat-square)
-![FDM](https://img.shields.io/badge/-FDM-0A66C2?style=flat-square)
-![DSP](https://img.shields.io/badge/-DSP-8B5CF6?style=flat-square)
-![OFDMA](https://img.shields.io/badge/-OFDMA-14532D?style=flat-square)
-
-<br/>
-
----
-
-### 🧠 [Chest X-Ray DCGAN — Medical AI](https://github.com/ryanamjad/chest-xray-dcgan-augmentation)
-
-**Deep Convolutional GAN** in PyTorch generating synthetic chest X-rays to augment limited medical datasets. Trained on 5,216 images to produce 6,400+ realistic samples — tackling data scarcity in healthcare AI.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square)
-![DCGAN](https://img.shields.io/badge/-DCGAN-8B5CF6?style=flat-square)
-![Medical AI](https://img.shields.io/badge/-Medical_AI-14532D?style=flat-square)
-
-<br/>
-
----
-
 ### 🔧 [NU-Core — 32-Bit Custom CPU in Verilog](https://github.com/ryanamjad/NU-Core-32bit-CPU)
 
 Custom-designed **32-bit single-cycle processor** with 39-bit instruction set, dual register files, and 5 ALU operations. Synthesized and verified on **Intel Cyclone V FPGA (DE1-SoC)** with 7-segment display output.
@@ -202,6 +176,32 @@ Hardware VGA graphics rendering on **Cyclone V FPGA**: FSM-based 8-color screen 
 ![FPGA](https://img.shields.io/badge/-Cyclone_V-0071C5?style=flat-square)
 ![VGA](https://img.shields.io/badge/-VGA-E01F27?style=flat-square)
 ![FSM](https://img.shields.io/badge/-FSM-8B5CF6?style=flat-square)
+
+<br/>
+
+---
+
+### 🌊 [Frequency Division Multiplexing](https://github.com/ryanamjad/frequency-division-multiplexing)
+
+4-channel FDM system with DSB-SC modulation, Butterworth filters, and coherent demodulation — the foundational concept behind **OFDMA in 4G/5G**. Full spectral analysis and signal recovery.
+
+![MATLAB](https://img.shields.io/badge/-MATLAB-E34F26?style=flat-square)
+![FDM](https://img.shields.io/badge/-FDM-0A66C2?style=flat-square)
+![DSP](https://img.shields.io/badge/-DSP-8B5CF6?style=flat-square)
+![OFDMA](https://img.shields.io/badge/-OFDMA-14532D?style=flat-square)
+
+<br/>
+
+---
+
+### 🧠 [Chest X-Ray DCGAN — Medical AI](https://github.com/ryanamjad/chest-xray-dcgan-augmentation)
+
+**Deep Convolutional GAN** in PyTorch generating synthetic chest X-rays to augment limited medical datasets. Trained on 5,216 images to produce 6,400+ realistic samples — tackling data scarcity in healthcare AI.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square)
+![DCGAN](https://img.shields.io/badge/-DCGAN-8B5CF6?style=flat-square)
+![Medical AI](https://img.shields.io/badge/-Medical_AI-14532D?style=flat-square)
 
 <br/>
 
