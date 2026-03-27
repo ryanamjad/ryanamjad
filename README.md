@@ -13,7 +13,7 @@
 
 I design and build intelligent systems at the intersection of **wireless**, **embedded software**, and **edge AI**. My work spans bare-metal firmware on microcontrollers, full-stack 5G RAN development, and machine learning deployed on constrained devices.
 
-I work across the wireless protocol stack, including **PHY, MAC, RLC, PDCP, and RRC**, and enjoy turning research ideas into practical, working prototypes.
+I work across the wireless protocol stack at the **L1/L2 layer** — from PHY-level signal processing to MAC scheduling and HARQ — and enjoy turning research ideas into practical, working prototypes.
 
 I'm always interested in connecting with engineers, researchers, and teams working on next-generation wireless systems and embedded intelligence.
 
@@ -123,24 +123,14 @@ I'm always interested in connecting with engineers, researchers, and teams worki
 
 <br/>
 
-### 🔌 [ESP32 Fire Alarm — Edge AI + FreeRTOS](https://github.com/ryanamjad/esp32-fft-fire-alarm-freertos)
+### 🔌 [ESP32 Fire Alarm — Edge AI + FreeRTOS](https://github.com/ryanamjad/esp32-fft-fire-alarm-freertos) | 📡 [5G Polar Codes](https://github.com/ryanamjad/polar-codes-5g-error-correction)
 
-Real-time audio classification on **ESP32** using FFT feature extraction and SVM inference — fully on-device under **FreeRTOS**. Connected to **AWS IoT Core** via MQTT for cloud telemetry and alerting.
+Real-time audio classification on **ESP32** using FFT + SVM under **FreeRTOS**, connected to **AWS IoT Core** via MQTT. Also: **3GPP Polar Codes** with CA-SCL decoding for **5G NR** control channels — full encoding, BPSK/AWGN simulation, and BER analysis pipeline.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-6DB33F?style=flat-square)
-![FFT](https://img.shields.io/badge/-FFT-8B5CF6?style=flat-square)
 ![AWS IoT](https://img.shields.io/badge/-AWS_IoT-232F3E?style=flat-square)
-
-<br/>
-
----
-
-### 📡 [5G Polar Codes — Error Correction](https://github.com/ryanamjad/polar-codes-5g-error-correction)
-
-**3GPP Polar Codes** with CRC-aided Successive Cancellation List (CA-SCL) decoding — the standard for **5G NR** control channels. Full pipeline: encoding, BPSK modulation, AWGN simulation, and BER analysis.
-
 ![MATLAB](https://img.shields.io/badge/-MATLAB-E34F26?style=flat-square)
 ![5G NR](https://img.shields.io/badge/-5G_NR-0A66C2?style=flat-square)
 ![Polar Codes](https://img.shields.io/badge/-Polar_Codes-8B5CF6?style=flat-square)
