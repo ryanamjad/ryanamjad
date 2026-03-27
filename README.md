@@ -2,7 +2,7 @@
 
 # Hey, I'm Ryan Amjad
 
-### 5G RAN Developer | Embedded Systems Engineer | AI/ML on the Edge
+### 5G RAN Developer | Embedded Systems Engineer | Edge AI/ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanamjaddev/)
 [![Email](https://img.shields.io/badge/-amjadryan5@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amjadryan5@gmail.com)
@@ -11,9 +11,11 @@
 
 <br/>
 
-I build intelligent systems where **hardware meets AI** — from bare-metal firmware on microcontrollers to full-stack 5G RAN development and edge-deployed machine learning. I work across all layers of the wireless protocol stack — PHY, MAC, RLC, PDCP, RRC — and turn research papers into working prototypes.
+I design and build intelligent systems at the intersection of **wireless**, **embedded software**, and **edge AI**. My work spans bare-metal firmware on microcontrollers, full-stack 5G RAN development, and machine learning deployed on constrained devices.
 
-**Always open to connecting with fellow engineers and teams pushing the boundaries of wireless and embedded AI.**
+I work across the wireless protocol stack, including **PHY, MAC, RLC, PDCP, and RRC**, and enjoy turning research ideas into practical, working prototypes.
+
+I'm always interested in connecting with engineers, researchers, and teams working on next-generation wireless systems and embedded intelligence.
 
 </div>
 
