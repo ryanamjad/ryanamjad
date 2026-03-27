@@ -2,7 +2,7 @@
 
 # Hey, I'm Ryan Amjad
 
-### Embedded Systems Engineer | 5G Wireless | AI/ML on the Edge
+### 5G RAN Developer | Embedded Systems Engineer | AI/ML on the Edge
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanamjaddev/)
 [![Email](https://img.shields.io/badge/-amjadryan5@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amjadryan5@gmail.com)
@@ -11,9 +11,9 @@
 
 <br/>
 
-I build intelligent systems where **hardware meets AI** — from bare-metal firmware on microcontrollers to 5G physical-layer algorithms and edge-deployed machine learning. I turn research papers into working prototypes.
+I build intelligent systems where **hardware meets AI** — from bare-metal firmware on microcontrollers to full-stack 5G RAN development and edge-deployed machine learning. I work across all layers of the wireless protocol stack — PHY, MAC, RLC, PDCP, RRC — and turn research papers into working prototypes.
 
-**Currently seeking roles in Embedded AI, Wireless/5G Systems, and Edge Intelligence.**
+**Currently seeking roles in 5G RAN Development, Embedded AI, and Edge Intelligence.**
 
 </div>
 
@@ -43,22 +43,15 @@ I build intelligent systems where **hardware meets AI** — from bare-metal firm
 </td>
 <td valign="top" width="25%">
 
-### Wireless & DSP
+### 5G RAN & Wireless
 ![MATLAB](https://img.shields.io/badge/MATLAB-E34F26?style=flat-square&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logoColor=white)
 
-`5G NR` `3GPP`
-`Polar Codes` `LDPC`
-`OFDM / OFDMA`
-`Massive MIMO`
-`Beamforming`
-`Channel Estimation`
-`1-Bit Precoding`
-`BER Analysis`
-`BPSK` `QPSK` `QAM`
-`FFT / IFFT`
-`Digital Filtering`
-`FDM / FDMA`
+**L1 — PHY:** `OFDM / OFDMA` `Polar Codes` `LDPC` `Massive MIMO` `Beamforming` `Channel Estimation` `BPSK` `QPSK` `QAM` `FFT / IFFT`
+**L2 — MAC / RLC / PDCP:** `Scheduling` `HARQ` `ARQ` `Segmentation` `Header Compression`
+**L3 — RRC:** `RRC State Machines` `Cell Selection` `Handover` `Measurement Reporting`
+**Standards:** `5G NR` `3GPP` `LTE`
+**DSP:** `Digital Filtering` `Spectral Analysis` `BER Analysis` `FDM / FDMA` `1-Bit Precoding`
 
 </td>
 <td valign="top" width="25%">
@@ -188,7 +181,7 @@ Electronic voting system on **Intel 8051** — PIN auth, keypad/LCD interface, m
 
 ### Let's Build Something Together
 
-I'm open to full-time roles in **Embedded AI**, **5G/6G Wireless Systems**, and **Edge Intelligence**.
+I'm open to full-time roles in **5G RAN Development**, **Embedded AI**, and **Edge Intelligence**.
 
 If you're working on something where hardware meets intelligence — I'd love to talk.
 
