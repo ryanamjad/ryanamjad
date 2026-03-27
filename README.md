@@ -58,24 +58,17 @@ I'm always interested in connecting with engineers, researchers, and teams worki
 ![3GPP](https://img.shields.io/badge/3GPP-14532D?style=flat-square&logoColor=white)
 ![LTE](https://img.shields.io/badge/LTE-555?style=flat-square&logoColor=white)
 
-**PHY**
+**L1 / L2**
 ![OFDM](https://img.shields.io/badge/-OFDM-1a73e8?style=flat-square)
 ![Polar Codes](https://img.shields.io/badge/-Polar_Codes-1a73e8?style=flat-square)
 ![LDPC](https://img.shields.io/badge/-LDPC-1a73e8?style=flat-square)
 ![Massive MIMO](https://img.shields.io/badge/-Massive_MIMO-1a73e8?style=flat-square)
 ![Beamforming](https://img.shields.io/badge/-Beamforming-1a73e8?style=flat-square)
 ![Channel Est.](https://img.shields.io/badge/-Channel_Est.-1a73e8?style=flat-square)
-
-**MAC / RLC / PDCP**
 ![Scheduling](https://img.shields.io/badge/-Scheduling-8B5CF6?style=flat-square)
 ![HARQ](https://img.shields.io/badge/-HARQ-8B5CF6?style=flat-square)
 ![ARQ](https://img.shields.io/badge/-ARQ-8B5CF6?style=flat-square)
 ![Segmentation](https://img.shields.io/badge/-Segmentation-8B5CF6?style=flat-square)
-
-**RRC**
-![State Machines](https://img.shields.io/badge/-State_Machines-D97706?style=flat-square)
-![Handover](https://img.shields.io/badge/-Handover-D97706?style=flat-square)
-![Cell Selection](https://img.shields.io/badge/-Cell_Selection-D97706?style=flat-square)
 
 **DSP**
 ![FFT](https://img.shields.io/badge/-FFT%2FIFFT-555?style=flat-square)
