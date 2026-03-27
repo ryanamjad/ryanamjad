@@ -36,6 +36,7 @@ I'm always interested in connecting with engineers, researchers, and teams worki
 ![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white)
 ![8051](https://img.shields.io/badge/Intel_8051-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA_Xilinx-E01F27?style=flat-square&logoColor=white)
+![FPGA Intel](https://img.shields.io/badge/FPGA_Intel-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ![SPI](https://img.shields.io/badge/-SPI-555?style=flat-square)
@@ -108,6 +109,9 @@ I'm always interested in connecting with engineers, researchers, and teams worki
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-543978?style=flat-square&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white)
+![Quartus](https://img.shields.io/badge/Intel_Quartus-0071C5?style=flat-square&logo=intel&logoColor=white)
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=flat-square&logoColor=white)
+![HLS](https://img.shields.io/badge/HLS_Synthesis-FF6600?style=flat-square&logoColor=white)
 
 ![GDB](https://img.shields.io/badge/-GDB-555?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-555?style=flat-square)
