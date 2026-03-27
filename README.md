@@ -36,9 +36,14 @@ I build intelligent systems where **hardware meets AI** — from bare-metal firm
 ![FPGA](https://img.shields.io/badge/FPGA_Xilinx-E01F27?style=flat-square&logoColor=white)
 ![Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-`SPI` `I2C` `UART` `DMA`
-`JTAG/SWD` `Bare-Metal`
-`Low-Power Design` `Proteus`
+![SPI](https://img.shields.io/badge/-SPI-555?style=flat-square)
+![I2C](https://img.shields.io/badge/-I2C-555?style=flat-square)
+![UART](https://img.shields.io/badge/-UART-555?style=flat-square)
+![DMA](https://img.shields.io/badge/-DMA-555?style=flat-square)
+![JTAG](https://img.shields.io/badge/-JTAG%2FSWD-555?style=flat-square)
+![Bare-Metal](https://img.shields.io/badge/-Bare--Metal-555?style=flat-square)
+![Low-Power](https://img.shields.io/badge/-Low--Power-555?style=flat-square)
+![Proteus](https://img.shields.io/badge/-Proteus-555?style=flat-square)
 
 </td>
 <td valign="top" width="25%">
@@ -46,12 +51,33 @@ I build intelligent systems where **hardware meets AI** — from bare-metal firm
 ### 5G RAN & Wireless
 ![MATLAB](https://img.shields.io/badge/MATLAB-E34F26?style=flat-square&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logoColor=white)
+![5G NR](https://img.shields.io/badge/5G_NR-0A66C2?style=flat-square&logoColor=white)
+![3GPP](https://img.shields.io/badge/3GPP-14532D?style=flat-square&logoColor=white)
+![LTE](https://img.shields.io/badge/LTE-555?style=flat-square&logoColor=white)
 
-**L1 — PHY:** `OFDM / OFDMA` `Polar Codes` `LDPC` `Massive MIMO` `Beamforming` `Channel Estimation` `BPSK` `QPSK` `QAM` `FFT / IFFT`
-**L2 — MAC / RLC / PDCP:** `Scheduling` `HARQ` `ARQ` `Segmentation` `Header Compression`
-**L3 — RRC:** `RRC State Machines` `Cell Selection` `Handover` `Measurement Reporting`
-**Standards:** `5G NR` `3GPP` `LTE`
-**DSP:** `Digital Filtering` `Spectral Analysis` `BER Analysis` `FDM / FDMA` `1-Bit Precoding`
+**PHY**
+![OFDM](https://img.shields.io/badge/-OFDM-1a73e8?style=flat-square)
+![Polar Codes](https://img.shields.io/badge/-Polar_Codes-1a73e8?style=flat-square)
+![LDPC](https://img.shields.io/badge/-LDPC-1a73e8?style=flat-square)
+![Massive MIMO](https://img.shields.io/badge/-Massive_MIMO-1a73e8?style=flat-square)
+![Beamforming](https://img.shields.io/badge/-Beamforming-1a73e8?style=flat-square)
+![Channel Est.](https://img.shields.io/badge/-Channel_Est.-1a73e8?style=flat-square)
+
+**MAC / RLC / PDCP**
+![Scheduling](https://img.shields.io/badge/-Scheduling-8B5CF6?style=flat-square)
+![HARQ](https://img.shields.io/badge/-HARQ-8B5CF6?style=flat-square)
+![ARQ](https://img.shields.io/badge/-ARQ-8B5CF6?style=flat-square)
+![Segmentation](https://img.shields.io/badge/-Segmentation-8B5CF6?style=flat-square)
+
+**RRC**
+![State Machines](https://img.shields.io/badge/-State_Machines-D97706?style=flat-square)
+![Handover](https://img.shields.io/badge/-Handover-D97706?style=flat-square)
+![Cell Selection](https://img.shields.io/badge/-Cell_Selection-D97706?style=flat-square)
+
+**DSP**
+![FFT](https://img.shields.io/badge/-FFT%2FIFFT-555?style=flat-square)
+![Filtering](https://img.shields.io/badge/-Filtering-555?style=flat-square)
+![BER Analysis](https://img.shields.io/badge/-BER_Analysis-555?style=flat-square)
 
 </td>
 <td valign="top" width="25%">
@@ -63,12 +89,13 @@ I build intelligent systems where **hardware meets AI** — from bare-metal firm
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-`TinyML` `Edge Inference`
-`CNNs` `GANs`
-`Model Quantization`
-`Computer Vision`
-`Audio Classification`
-`Data Augmentation`
+![TinyML](https://img.shields.io/badge/-TinyML-555?style=flat-square)
+![Edge Inference](https://img.shields.io/badge/-Edge_Inference-555?style=flat-square)
+![CNNs](https://img.shields.io/badge/-CNNs-555?style=flat-square)
+![GANs](https://img.shields.io/badge/-GANs-555?style=flat-square)
+![Quantization](https://img.shields.io/badge/-Quantization-555?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-555?style=flat-square)
+![Audio Classification](https://img.shields.io/badge/-Audio_Classification-555?style=flat-square)
 
 </td>
 <td valign="top" width="25%">
@@ -80,10 +107,12 @@ I build intelligent systems where **hardware meets AI** — from bare-metal firm
 ![Verilog](https://img.shields.io/badge/Verilog-543978?style=flat-square&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white)
 
-`GDB` `Wireshark`
-`BLE` `Wi-Fi`
-`REST APIs`
-`Edge-to-Cloud`
+![GDB](https://img.shields.io/badge/-GDB-555?style=flat-square)
+![Wireshark](https://img.shields.io/badge/-Wireshark-555?style=flat-square)
+![BLE](https://img.shields.io/badge/-BLE-555?style=flat-square)
+![Wi-Fi](https://img.shields.io/badge/-Wi--Fi-555?style=flat-square)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-555?style=flat-square)
+![Edge-to-Cloud](https://img.shields.io/badge/-Edge--to--Cloud-555?style=flat-square)
 
 </td>
 </tr>
