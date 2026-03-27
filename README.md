@@ -13,7 +13,7 @@
 
 I build intelligent systems where **hardware meets AI** — from bare-metal firmware on microcontrollers to full-stack 5G RAN development and edge-deployed machine learning. I work across all layers of the wireless protocol stack — PHY, MAC, RLC, PDCP, RRC — and turn research papers into working prototypes.
 
-**Got a problem at the edge of hardware and intelligence? Let's solve it together.**
+**Always open to connecting with fellow engineers and teams pushing the boundaries of wireless and embedded AI.**
 
 </div>
 
