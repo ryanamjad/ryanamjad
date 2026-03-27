@@ -43,7 +43,6 @@ I'm always interested in connecting with engineers, researchers, and teams worki
 ![I2C](https://img.shields.io/badge/-I2C-555?style=flat-square)
 ![UART](https://img.shields.io/badge/-UART-555?style=flat-square)
 ![DMA](https://img.shields.io/badge/-DMA-555?style=flat-square)
-![JTAG](https://img.shields.io/badge/-JTAG%2FSWD-555?style=flat-square)
 ![Bare-Metal](https://img.shields.io/badge/-Bare--Metal-555?style=flat-square)
 ![Low-Power](https://img.shields.io/badge/-Low--Power-555?style=flat-square)
 ![Proteus](https://img.shields.io/badge/-Proteus-555?style=flat-square)
@@ -106,7 +105,6 @@ I'm always interested in connecting with engineers, researchers, and teams worki
 ![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=flat-square&logoColor=white)
 ![HLS](https://img.shields.io/badge/HLS_Synthesis-FF6600?style=flat-square&logoColor=white)
 
-![GDB](https://img.shields.io/badge/-GDB-555?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-555?style=flat-square)
 ![BLE](https://img.shields.io/badge/-BLE-555?style=flat-square)
 ![Wi-Fi](https://img.shields.io/badge/-Wi--Fi-555?style=flat-square)
