@@ -1,208 +1,91 @@
-<div align="center">
+\documentclass[letterpaper,11pt]{article}
 
-# Hey, I'm Ryan Amjad
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{geometry}
 
-### 5G RAN Developer | Embedded Systems Engineer | Edge AI/ML Engineer
+\geometry{left=0.5in, right=0.5in, top=0.45in, bottom=0.45in}
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanamjaddev/)
-[![Email](https://img.shields.io/badge/-amjadryan5@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amjadryan5@gmail.com)
-[![GitHub](https://img.shields.io/badge/-ryanamjad-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ryanamjad)
-[![Location](https://img.shields.io/badge/-Winnipeg,%20Canada-1a73e8?style=flat-square&logo=googlemaps&logoColor=white)](#)
+\pagestyle{empty}
 
-<br/>
+\titleformat{\section}{\large\bfseries\scshape}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{6pt}{4pt}
 
-I design and build intelligent systems at the intersection of **wireless**, **embedded software**, and **edge AI**. My work spans bare-metal firmware on microcontrollers, full-stack 5G RAN development, and machine learning deployed on constrained devices.
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item[]
+    \begin{tabularx}{\textwidth}{X r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabularx}\vspace{-5pt}
+}
 
-I work across the wireless protocol stack at the **L1/L2 layer** — from PHY-level signal processing to MAC scheduling and HARQ — and enjoy turning research ideas into practical, working prototypes.
+\newcommand{\resumeItem}[1]{\item #1 \vspace{-2pt}}
 
-I'm always interested in connecting with engineers, researchers, and teams working on next-generation wireless systems and embedded intelligence.
+\begin{document}
 
-</div>
+%----------HEADING----------
+\begin{center}
+  {\Huge \textbf{Ryan Amjad}} \\[4pt]
+  Winnipeg, CA \,$\bullet$\, \href{mailto:amjadryan5@gmail.com}{amjadryan5@gmail.com} \,$\bullet$\, +1\,584\,888\,2501 \,$\bullet$\, \href{https://github.com/ryanamjad}{github.com/ryanamjad}
+\end{center}
 
-<br/>
+%----------SUMMARY----------
+\section{Summary}
+Full-stack Software Engineer with 5+ years of experience designing, building, and maintaining production-grade software systems. Technical depth across JavaScript, TypeScript, Python, Go, Java, C++, React, Next.js, Node.js, NestJS, Flask, and PostgreSQL with modern cloud deployments on AWS. Strong expertise in version control (Git), code quality, coding standards, debugging complex issues, code reviews, and collaborative development workflows.
 
-## What I Work With
+%----------WORK EXPERIENCE----------
+\section{Work Experience}
 
-<table>
-<tr>
-<td valign="top" width="25%">
+\begin{itemize}[leftmargin=0em, label={}]
 
-### Embedded
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=flat-square&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white)
-![8051](https://img.shields.io/badge/Intel_8051-0071C5?style=flat-square&logo=intel&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA_Xilinx-E01F27?style=flat-square&logoColor=white)
-![FPGA Intel](https://img.shields.io/badge/FPGA_Intel-0071C5?style=flat-square&logo=intel&logoColor=white)
-![Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+\resumeSubheading
+{LawnStarter}{July 2022 -- Present}
+{Full Stack Engineer}{US (Remote)}
+\begin{itemize}[leftmargin=1.5em]
+  \resumeItem{Redesigned customer-facing marketing sites from legacy templates to \textbf{Next.js 15 + React 19 + TypeScript}, improving page load times by \textbf{40\%} and SEO scores, driving measurable organic traffic growth.}
+  \resumeItem{Built a \textbf{Flask}-based content management and AI-powered optimization tool with automated SERP analysis, content gap detection, and WordPress REST API integration, reducing editorial turnaround by \textbf{60\%}.}
+  \resumeItem{Developed an interactive ROI calculator using Next.js, Recharts, and \textbf{@react-pdf/renderer} with state-specific data models, deployed on \textbf{Cloudflare Workers} as an embeddable widget for partner sites.}
+  \resumeItem{Built \textbf{9+ production-ready full-stack sites} for the Home Gnome project, delivering end-to-end features with \textbf{Next.js, TypeScript, and Node.js}, applying \textbf{Git} branching, merging, and CI/CD pipelines.}
+  \resumeItem{Designed and developed \textbf{RESTful APIs} end-to-end with Node.js and Flask, authored technical specifications and API contracts, deployed services on \textbf{AWS EC2/ECS} with automated testing via \textbf{Jest} and \textbf{PyTest}.}
+    \resumeItem{Built an automated workflow integrating \textbf{GA4, GSC, and Airtable} for real-time traffic management.}
+\end{itemize}
+\resumeSubheading
+{Metopio}{Mar 2024 -- Present}
+{Web Developer (Part-time)}{US (Remote)}
+\begin{itemize}[leftmargin=1.5em]
+  \resumeItem{Built \textbf{40+ custom-branded Health Atlas sites} for hospitals and public health departments using \textbf{Vue.js, Contentful CMS, and Django/PostgreSQL}, powering Community Health Assessments (CHA) and Community Health Improvement Plans (CHIP) across 475+ organizations.}
+  \resumeItem{Developed interactive data visualization dashboards with \textbf{D3.js, Mapbox, and Python} for mapping health disparities, enabling stakeholders to explore community-level datasets serving \textbf{20M+ people}.}
+  \resumeItem{Integrated \textbf{Google Analytics and custom event tracking} across client sites, enabling data-driven decision-making and measurable engagement improvements for public health stakeholders.}
+  \resumeItem{Conducted \textbf{code reviews}, debugged complex issues across large codebases, and enforced \textbf{coding standards and best practices}, improving code quality and maintainability.}
+\end{itemize}
 
-![SPI](https://img.shields.io/badge/-SPI-555?style=flat-square)
-![I2C](https://img.shields.io/badge/-I2C-555?style=flat-square)
-![UART](https://img.shields.io/badge/-UART-555?style=flat-square)
-![DMA](https://img.shields.io/badge/-DMA-555?style=flat-square)
-![Bare-Metal](https://img.shields.io/badge/-Bare--Metal-555?style=flat-square)
-![Low-Power](https://img.shields.io/badge/-Low--Power-555?style=flat-square)
-![Proteus](https://img.shields.io/badge/-Proteus-555?style=flat-square)
+\resumeSubheading
+{Upwork -- Top Rated Plus Freelancer}{Sep 2021 -- Present}
+{Full Stack Software Developer}{Remote}
+\begin{itemize}[leftmargin=1.5em]
+  \resumeItem{\textbf{FuzeGenAI}: Built a full-stack SaaS platform from scratch using \textbf{NestJS + Prisma + PostgreSQL} backend and \textbf{React 19 + TanStack Router} frontend in a \textbf{pnpm + Turborepo} monorepo.}
+  \resumeItem{Designed and scaled \textbf{35+ server-side modules} including Bull job queues, WebSocket (Socket.io), rate limiting, Stripe payments, and Swagger API docs with comprehensive \textbf{Jest and Mocha} test suites.}
+  \resumeItem{Deployed on \textbf{AWS} (ECS Fargate, CloudFront, S3, RDS) with Docker, \textbf{GitHub Actions CI/CD}, Sentry monitoring, and Winston + Axiom observability.}
+\end{itemize}
 
-</td>
-<td valign="top" width="25%">
+\end{itemize}
 
-### 5G RAN & Wireless
-![MATLAB](https://img.shields.io/badge/MATLAB-E34F26?style=flat-square&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logoColor=white)
-![5G NR](https://img.shields.io/badge/5G_NR-0A66C2?style=flat-square&logoColor=white)
-![3GPP](https://img.shields.io/badge/3GPP-14532D?style=flat-square&logoColor=white)
-![LTE](https://img.shields.io/badge/LTE-555?style=flat-square&logoColor=white)
+%----------EDUCATION----------
+\section{Education}
 
-**L1 / L2**
-![OFDM](https://img.shields.io/badge/-OFDM-1a73e8?style=flat-square)
-![Polar Codes](https://img.shields.io/badge/-Polar_Codes-1a73e8?style=flat-square)
-![LDPC](https://img.shields.io/badge/-LDPC-1a73e8?style=flat-square)
-![Massive MIMO](https://img.shields.io/badge/-Massive_MIMO-1a73e8?style=flat-square)
-![Beamforming](https://img.shields.io/badge/-Beamforming-1a73e8?style=flat-square)
-![Channel Est.](https://img.shields.io/badge/-Channel_Est.-1a73e8?style=flat-square)
-![Scheduling](https://img.shields.io/badge/-Scheduling-8B5CF6?style=flat-square)
-![HARQ](https://img.shields.io/badge/-HARQ-8B5CF6?style=flat-square)
-![ARQ](https://img.shields.io/badge/-ARQ-8B5CF6?style=flat-square)
-![Segmentation](https://img.shields.io/badge/-Segmentation-8B5CF6?style=flat-square)
+\begin{itemize}[leftmargin=0em, label={}]
+\resumeSubheading
+{University of Manitoba}{Sep 2024 -- Dec 2026 (Expected)}
+{Master of Science (M.Sc), Electrical and Computer Engineering}{Winnipeg, Canada}
+\end{itemize}
 
-**DSP**
-![FFT](https://img.shields.io/badge/-FFT%2FIFFT-555?style=flat-square)
-![Filtering](https://img.shields.io/badge/-Filtering-555?style=flat-square)
-![BER Analysis](https://img.shields.io/badge/-BER_Analysis-555?style=flat-square)
+%----------SKILLS----------
+\section{Skills \& Interests}
+\textbf{Skills:} Python, JavaScript, TypeScript, Go, Java, C++ \,$\bullet$\, React, Next.js, NestJS, Node.js, Flask, Django, Vue.js, TanStack, Tailwind \,$\bullet$\, AWS (EC2, ECS, RDS, S3, CloudFront, Amplify, Route\,53, Lambda), Azure, GCP, Docker, Terraform \,$\bullet$\, PostgreSQL, Redis, Prisma, REST API Design, GraphQL, Swagger/OpenAPI \,$\bullet$\, Git (Branching, Merging, Collaborative Workflows), Code Reviews, Test-Driven Development (TDD), CI/CD, Debugging, Technical Specifications, Software Architecture \,$\bullet$\, Jest, PyTest, React Testing Library, Supertest
 
-</td>
-<td valign="top" width="25%">
-
-### AI / ML & Edge
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-![TinyML](https://img.shields.io/badge/-TinyML-555?style=flat-square)
-![Edge Inference](https://img.shields.io/badge/-Edge_Inference-555?style=flat-square)
-![CNNs](https://img.shields.io/badge/-CNNs-555?style=flat-square)
-![GANs](https://img.shields.io/badge/-GANs-555?style=flat-square)
-![Quantization](https://img.shields.io/badge/-Quantization-555?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/-Computer_Vision-555?style=flat-square)
-![Audio Classification](https://img.shields.io/badge/-Audio_Classification-555?style=flat-square)
-
-</td>
-<td valign="top" width="25%">
-
-### Tools & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS IoT](https://img.shields.io/badge/AWS_IoT-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-543978?style=flat-square&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white)
-![Quartus](https://img.shields.io/badge/Intel_Quartus-0071C5?style=flat-square&logo=intel&logoColor=white)
-![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=flat-square&logoColor=white)
-![HLS](https://img.shields.io/badge/HLS_Synthesis-FF6600?style=flat-square&logoColor=white)
-
-![Wireshark](https://img.shields.io/badge/-Wireshark-555?style=flat-square)
-![BLE](https://img.shields.io/badge/-BLE-555?style=flat-square)
-![Wi-Fi](https://img.shields.io/badge/-Wi--Fi-555?style=flat-square)
-![REST APIs](https://img.shields.io/badge/-REST_APIs-555?style=flat-square)
-![Edge-to-Cloud](https://img.shields.io/badge/-Edge--to--Cloud-555?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Featured Projects
-
-> Each project demonstrates a different slice of the embedded + wireless + AI stack.
-
-<br/>
-
-### 🔌 [ESP32 Fire Alarm — Edge AI + FreeRTOS](https://github.com/ryanamjad/esp32-fft-fire-alarm-freertos) | 📡 [5G Polar Codes](https://github.com/ryanamjad/polar-codes-5g-error-correction)
-
-Real-time audio classification on **ESP32** using FFT + SVM under **FreeRTOS**, connected to **AWS IoT Core** via MQTT. Also: **3GPP Polar Codes** with CA-SCL decoding for **5G NR** control channels — full encoding, BPSK/AWGN simulation, and BER analysis pipeline.
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square)
-![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-6DB33F?style=flat-square)
-![AWS IoT](https://img.shields.io/badge/-AWS_IoT-232F3E?style=flat-square)
-![MATLAB](https://img.shields.io/badge/-MATLAB-E34F26?style=flat-square)
-![5G NR](https://img.shields.io/badge/-5G_NR-0A66C2?style=flat-square)
-![Polar Codes](https://img.shields.io/badge/-Polar_Codes-8B5CF6?style=flat-square)
-![3GPP](https://img.shields.io/badge/-3GPP-14532D?style=flat-square)
-
-<br/>
-
----
-
-### 🔧 [NU-Core — 32-Bit Custom CPU in Verilog](https://github.com/ryanamjad/NU-Core-32bit-CPU-Verilog)
-
-Custom-designed **32-bit single-cycle processor** with 39-bit instruction set, dual register files, and 5 ALU operations. Synthesized and verified on **Intel Cyclone V FPGA (DE1-SoC)** with 7-segment display output.
-
-![Verilog](https://img.shields.io/badge/-Verilog-543978?style=flat-square)
-![FPGA](https://img.shields.io/badge/-Cyclone_V-0071C5?style=flat-square)
-![CPU Design](https://img.shields.io/badge/-CPU_Design-E01F27?style=flat-square)
-![Quartus](https://img.shields.io/badge/-Quartus-00599C?style=flat-square)
-
-<br/>
-
----
-
-### 🖥️ [FPGA VGA Graphics Engine — Color Fill & Bresenham Circles](https://github.com/ryanamjad/FPGA-VGA-Graphics-Engine)
-
-Hardware VGA graphics rendering on **Cyclone V FPGA**: FSM-based 8-color screen fill and **Bresenham Circle Algorithm** with adjustable radius and color — all driving a 160x120 VGA display in real-time.
-
-![Verilog](https://img.shields.io/badge/-Verilog-543978?style=flat-square)
-![FPGA](https://img.shields.io/badge/-Cyclone_V-0071C5?style=flat-square)
-![VGA](https://img.shields.io/badge/-VGA-E01F27?style=flat-square)
-![FSM](https://img.shields.io/badge/-FSM-8B5CF6?style=flat-square)
-
-<br/>
-
----
-
-### 🌊 [Frequency Division Multiplexing](https://github.com/ryanamjad/frequency-division-multiplexing)
-
-4-channel FDM system with DSB-SC modulation, Butterworth filters, and coherent demodulation — the foundational concept behind **OFDMA in 4G/5G**. Full spectral analysis and signal recovery.
-
-![MATLAB](https://img.shields.io/badge/-MATLAB-E34F26?style=flat-square)
-![FDM](https://img.shields.io/badge/-FDM-0A66C2?style=flat-square)
-![DSP](https://img.shields.io/badge/-DSP-8B5CF6?style=flat-square)
-![OFDMA](https://img.shields.io/badge/-OFDMA-14532D?style=flat-square)
-
-<br/>
-
----
-
-### 🧠 [Chest X-Ray DCGAN — Medical AI](https://github.com/ryanamjad/chest-xray-dcgan-augmentation)
-
-**Deep Convolutional GAN** in PyTorch generating synthetic chest X-rays to augment limited medical datasets. Trained on 5,216 images to produce 6,400+ realistic samples — tackling data scarcity in healthcare AI.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square)
-![DCGAN](https://img.shields.io/badge/-DCGAN-8B5CF6?style=flat-square)
-![Medical AI](https://img.shields.io/badge/-Medical_AI-14532D?style=flat-square)
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### Let's Build Something Together
-
-I'm open to full-time roles in **5G RAN Development**, **Embedded AI**, and **Edge Intelligence**.
-
-If you're working on something where hardware meets intelligence — I'd love to talk.
-
-[![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanamjaddev/)
-[![Email](https://img.shields.io/badge/-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjadryan5@gmail.com)
-
-</div>
+\end{document}
